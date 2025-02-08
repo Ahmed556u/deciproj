@@ -1,6 +1,6 @@
 // import fetch from 'node-fetch';
 
-const API_KEY = 'y98bAL8B5tiXaniuE17hp4XW8NkOEgASqPpSSd3r'; // Replace with your actual NASA API Key
+const API_KEY = 'PgfzHDYgCmjyQE35GOd2ny7BaJQAxtxDUP0h1nt4';
 
 async function fetchAsteroidData() {
     try {
